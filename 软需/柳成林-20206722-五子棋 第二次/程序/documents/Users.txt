@@ -1,0 +1,6 @@
+{"admin":true,"password":"a20206722","username":"20206722"}
+{"admin":true,"password":"abc1234","username":"1"}
+{"admin":true,"password":"000000","username":"2"}
+{"admin":true,"password":"000000","username":"3"}
+{"admin":true,"password":"000000","username":"4"}
+{"admin":true,"password":"a","username":"a"}

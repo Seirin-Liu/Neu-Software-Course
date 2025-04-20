@@ -1,0 +1,9 @@
+{"admin":false,"password":"20206722","username":"20206722"}
+{"admin":true,"password":"1","username":"1"}
+{"admin":false,"password":"admin","username":"admin"}
+{"admin":true,"password":"222","username":"222"}
+{"admin":false,"password":"333","username":"333"}
+{"admin":false,"password":"12345678","username":"Ë¼±æµÄÂ«Î­"}
+{"admin":false,"password":"444","username":"444"}
+{"admin":true,"password":"000","username":"000"}
+{"admin":false,"password":"123","username":"123"}
