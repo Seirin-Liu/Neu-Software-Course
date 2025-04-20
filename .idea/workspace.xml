@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d88abafb-16d9-433a-9ce2-6a87d38a70d5" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/config/MyRealm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/config/ShiroConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/config/cors/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/config/shiro/entity/UserOnlineBo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/controller/QuestionnaireAnswerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/controller/QuestionnaireController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/controller/QuestionnaireIssueController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/dao/ProjectMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/dao/QuestionnaireAnswerMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/dao/QuestionnaireIssueMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/dao/QuestionnaireMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/dao/RespondentMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/dao/entity/QuestionnaireAnswerEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/dao/entity/QuestionnaireEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/dao/entity/QuestionnaireIssueEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/dao/entity/RespondentEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/service/QuestionnaireAnswerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/service/QuestionnaireIssueService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/service/QuestionnaireService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/service/RespondentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/service/impl/QuestionnaireAnswerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/service/impl/QuestionnaireIssueServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/service/impl/QuestionnaireServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/service/impl/RespondentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/mapper/ProjectMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/mapper/QuestionnaireAnswerMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/mapper/QuestionnaireIssueMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/mapper/QuestionnaireMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/mapper/RespondentMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/answerQuestionJs/answerQuestionnaire.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/answerQuestionJs/answerQuestionnaireList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/answerQuestionJs/creatExcelUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/answerQuestionJs/excelUser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/answerQuestionJs/importTemplate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/answerQuestionJs/projectQuestionnaires.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/answerQuestionnaire.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/answerQuestionnaireList.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/creatExcelUser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/excelUser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/importTemplate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/projectQuestionnaires.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/小作业.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/anwserQuestionnaire.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/questionnairewebadmin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/QuestionnairewebadminApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/QuestionnairewebadminApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/beans/HttpResponseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/beans/HttpResponseEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/common/Constans.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/common/Pub.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/common/utils/CommonUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/common/utils/CronExpParserUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/common/utils/DateUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/common/utils/EnDecryptUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/common/utils/ExcelUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/common/utils/ExcelWrite.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/common/utils/FileOperate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/common/utils/HttpRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/common/utils/MD5Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/common/utils/RandomValidateCodeUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/common/utils/UUIDUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/config/cors/CorsConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/controller/ProjectController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/dao/ProjectEntityMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/dao/UserEntityMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/dao/UserEntityMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/dao/entity/ProjectEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/dao/entity/ProjectEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/dao/entity/UserEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/dao/entity/UserEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/java/com/aim/questionnaire/service/ProjectService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/mapper/ProjectEntityMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/mapper/UserEntityMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/mapper/UserEntityMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/sql/questionnaire.sql" beforeDir="false" afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/sql/questionnaire.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/common/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/common/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/answerQuestionCss/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/answerQuestionCss/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/answerQuestionJs/createNewUser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/answerQuestionJs/createProject.js" beforeDir="false" afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/answerQuestionJs/createProject.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/answerQuestionJs/easyloader.js" beforeDir="false" afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/answerQuestionJs/easyloader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/answerQuestionJs/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/answerQuestionJs/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/answerQuestionJs/myQuestionnaire.js" beforeDir="false" afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/answerQuestionJs/myQuestionnaire.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/answerQuestionJs/projectInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/answerQuestionJs/projectInfo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/answerQuestionJs/userManage.js" beforeDir="false" afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/answerQuestionJs/userManage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/createNewUser.html" beforeDir="false" afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/createNewUser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/createProject.html" beforeDir="false" afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/createProject.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/editProject.html" beforeDir="false" afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/editProject.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/myQuestionnaires.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/projectInfo.html" beforeDir="false" afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/projectInfo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/userManage.html" beforeDir="false" afterPath="$PROJECT_DIR$/实训（大二）/项目归档/项目源码/anwserQuestionnaire/src/main/resources/static/pages/userManage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/软件构造与测试/实验一/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/软件构造与测试/实验一/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/软件构造与测试/实验一/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/软件构造与测试/实验一/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/软件构造与测试/实验一/out/production/实验一/Barrel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/软件构造与测试/实验一/out/production/实验一/Lock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/软件构造与测试/实验一/out/production/实验一/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/软件构造与测试/实验一/out/production/实验一/Stock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/软件构造与测试/实验一/out/production/实验一/test/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/软件构造与测试/实验一/out/production/实验一/test/TestTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/软件构造与测试/实验一/src/Barrel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/软件构造与测试/实验一/src/Lock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/软件构造与测试/实验一/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/软件构造与测试/实验一/src/Stock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/软件构造与测试/实验一/src/test/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/软件构造与测试/实验一/src/test/TestTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/软件构造与测试/实验一/实验一.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2w00NxSimJty41RoA6edzv3hE0R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/Neu-Software-Course",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d88abafb-16d9-433a-9ce2-6a87d38a70d5" name="Changes" comment="" />
+      <created>1745163147664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745163147664</updated>
+      <workItem from="1745163150387" duration="3938000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <option name="closed" value="true" />
+      <created>1745163969020</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745163969020</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+</project>
